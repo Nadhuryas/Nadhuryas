@@ -1,6 +1,7 @@
 # 👨‍💻 Bonjour, je suis [Ambad]🔍
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambad-omar-2a85652b2)
+
 
 ## 🎯 Objectif
 
