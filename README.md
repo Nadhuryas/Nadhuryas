@@ -1,56 +1,58 @@
-# 👨‍💻 Salut, moi c'est [Ton Prénom] – Hacker éthique en devenir 🛡️
+# 👨‍💻 Bonjour, je suis [Ambad] – Hacker Éthique Junior 🔍
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil/)
 
-## 🎯 Mon objectif
+## 🎯 Objectif
 
-Je me forme activement dans le domaine de la cybersécurité, avec un intérêt particulier pour le **threat hunting**, la **forensique** et les **tests d'intrusion** sur systèmes Linux. Mon but est d’aider les organisations à identifier les failles avant qu’elles ne soient exploitées. J’aime expérimenter dans des environnements isolés pour reproduire des attaques réelles et renforcer ma compréhension du terrain.
+Je suis passionné par la cybersécurité, avec un intérêt particulier pour la détection des menaces, l’analyse forensique et la sécurité des systèmes Linux. J’expérimente en environnement virtuel pour simuler des attaques réelles et renforcer mes compétences en cryptographie, stéganographie, threat hunting et réponse à incident. Je souhaite rejoindre une équipe où je peux apporter ma curiosité, mon sens de l’analyse et mon engagement.
 
-## 🧠 Ce que je maîtrise déjà
+## 🛠️ Compétences
 
-| Domaine | Exemple ou outil utilisé |
-|--------|---------------------------|
-| Analyse de mémoire Linux | Volatility 3, AVML, LiME |
-| Environnements virtuels | Vagrant, VirtualBox, Docker |
-| Reverse engineering basique | Ghidra, strings, ltrace |
-| Threat Hunting & OSINT | MITRE ATT&CK, VirusTotal, Sherlock CTF |
-| Pentest réseau/app | Nmap, Burp Suite, test de backdoors sur VM |
-| Systèmes Linux | Ubuntu, Parrot OS, Kali, lignes de commande avancées |
-| Sécurité des endpoints | Microsoft Defender, logs Windows/Linux |
-| Collecte et tri de preuves | FTK Imager, Rekall, Autopsy |
+| Compétence                        | Projet ou outil associé |
+|----------------------------------|--------------------------|
+| Analyse mémoire Linux            | Volatility 3, AVML, LiME |
+| Threat hunting & IOC             | MITRE ATT&CK, VirusTotal |
+| Forensique numérique             | Autopsy, FTK Imager, Rekall |
+| Stéganographie & cryptographie   | CTF, outils stego/crypto |
+| Pentest & backdoors              | Nmap, Burp Suite, reverse shell |
+| Analyse de trafic réseau         | Wireshark, Any.run |
+| Conteneurisation & lab           | Docker, Kubernetes, Vagrant |
+| Virtualisation                   | VirtualBox, VMware |
+| Systèmes Linux                   | Ubuntu, Parrot, Kali |
 
 ## 🚀 Projets
 
-### 🕵️‍♂️ Dream Job 1 - Sherlock
-Participation à un défi de threat hunting (analyse de domaine malveillant, MITRE ATT&CK, artefacts Windows).
+### 🔍 Threat Hunting – Sherlock CTF
+Investigation de compromission avec MITRE ATT&CK, IOC, outils OSINT et sandbox dynamique (Any.run).
 
-### 💻 Analyse mémoire Linux
-Création de dumps mémoire avec AVML & LiME, analyse avec Volatility 3, génération de symboles avec dwarf2json.
+### 🧠 Analyse mémoire Linux
+Création et analyse de dumps mémoire avec Volatility 3, AVML, LiME et symboles Linux personnalisés.
 
-### 🧪 Tests de backdoors en labo
-Test de persistence et communication réseau entre machines virtuelles. Analyse post-mortem avec outils forensiques.
+### 🛠️ Laboratoire d’intrusion & forensic
+Tests de backdoors sur VM, collecte et analyse de preuves (Autopsy, FTK, Rekall).
 
-### 🐳 Docker + Volatility
-Utilisation de conteneurs Docker pour lancer des outils forensic (Volatility, dwarf2json, yara).
+## 🖧 Outils & Technologies
 
-## 🛠️ Environnement technique
+### Network
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Any.run](https://img.shields.io/badge/Any.run-000000?style=for-the-badge&logo=linux&logoColor=white)](https://any.run/)
 
-### 🧰 Outils forensic
+### Endpoint / Forensic
+[![FTK](https://img.shields.io/badge/FTK-E74C3C?style=for-the-badge&logo=accessdata&logoColor=white)](https://accessdata.com/)
+[![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logo=autopsy&logoColor=white)](https://www.autopsy.com/)
 [![Volatility](https://img.shields.io/badge/Volatility-0078D7?style=for-the-badge&logo=volatility&logoColor=white)](https://www.volatilityfoundation.org/)
 [![Rekall](https://img.shields.io/badge/Rekall-9B59B6?style=for-the-badge&logoColor=white)](http://www.rekall-forensic.com/)
-[![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logo=autopsy&logoColor=white)](https://www.autopsy.com/)
-[![FTK](https://img.shields.io/badge/FTK-E74C3C?style=for-the-badge&logo=accessdata&logoColor=white)](https://accessdata.com/products-services/forensic-toolkit-ftk)
 
-### 🖥️ Virtualisation / DevOps
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)](https://www.vagrantup.com/)
+### OS & Virtualisation
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 
-### 🧠 Threat Hunting & Analyse
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/)
-[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-FF0000?style=for-the-badge&logoColor=white)](https://attack.mitre.org/)
+### DevOps / Lab
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)](https://www.vagrantup.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
 ---
 
-> _"Apprendre en cassant, réparer en comprenant."_  
-> — Un hacker éthique motivé
+*"Apprendre en cassant, défendre en comprenant." — Hacker éthique*
