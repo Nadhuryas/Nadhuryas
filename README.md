@@ -56,4 +56,4 @@ Tests de backdoors sur VM, collecte et analyse de preuves (Autopsy, FTK, Rekall)
 
 ---
 
-*"Apprendre en cassant, défendre en comprenant." — Hacker éthique*
+*"Apprendre en cassant, défendre en comprenant."  Hacker éthique*
